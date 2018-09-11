@@ -1,0 +1,15 @@
+{
+  "name": "meshblu-core-task-knot-manager",
+  "version": "1.0.0",
+  "description": "bla",
+  "main": "index.js",
+  "dependencies": {
+    "meshblu-core-task-publish-message": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
